@@ -16,7 +16,8 @@ Computer Science Engineering student passionate about turning data into actionab
 - Power BI
 
 **Database Management:**
-- MySQL, MongoDB, DBMS
+- MySQL
+- DBMS
 
 ### 📊 Current Focus
 
